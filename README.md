@@ -81,8 +81,17 @@ I am a detail-oriented IT undergraduate specializing in Artificial Intelligence 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himaka12&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C" alt="Himaka's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaka12&layout=compact&theme=transparent&hide_border=true&title_color=00599C" alt="Top Languages" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Himaka12&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800&rank_icon=github" 
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaka12&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" 
+    height="165"
+  />
+
 </div>
 
 ---

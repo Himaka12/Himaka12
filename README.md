@@ -16,7 +16,9 @@ I am a detail-oriented IT undergraduate specializing in Artificial Intelligence 
 
 - ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Himaka12&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himaka12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ### 🛠️ Technical Arsenal
 

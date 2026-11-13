@@ -10,7 +10,7 @@ I am a detail-oriented IT undergraduate specializing in Artificial Intelligence 
 ### 🎓 Education
 * **B.Sc. (Hons) in Information Technology** - SLIIT, Sri Lanka (Expected Graduation: 2028)
 * **Specialization:** AI/ML
-* **CGPA:** 3.49
+* **CGPA:** 3.54
 
 ---
 
